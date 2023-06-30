@@ -73,5 +73,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 - [Three.js](https://threejs.org/) - Library for 3D rendering in the browser
 
 ## Image
-![Screenshot (216)](https://github.com/developerMaruya/3d_django_website_design/assets/137375643/8e8093a3-9644-4856-858b-b8413b7df1d0)
+![Screenshot (217)](https://github.com/IPH-Technologies-Pvt-Ltd/3D_website_design_django/assets/130441026/82ee0995-2e58-45b5-b384-ed88b13771ac)
+
 
