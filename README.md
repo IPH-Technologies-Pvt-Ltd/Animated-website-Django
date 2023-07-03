@@ -20,13 +20,13 @@ The project structure is organized as follows:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/3d_django_website_design.git
+   git clone https://github.com/your-username/3d-django-website-design.git
    ```
 
 2. Create a virtual environment:
 
    ```
-   cd 3d_django_website_design
+   cd 3d-django-website-design
    python -m venv env
    ```
 
