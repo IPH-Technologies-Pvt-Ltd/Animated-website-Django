@@ -72,7 +72,13 @@ Contributions are welcome! If you would like to contribute to this project, plea
 - [Django](https://www.djangoproject.com/) - The Python web framework used
 - [Three.js](https://threejs.org/) - Library for 3D rendering in the browser
 
-## Image
-![Screenshot (217)](https://github.com/IPH-Technologies-Pvt-Ltd/3D_website_design_django/assets/130441026/82ee0995-2e58-45b5-b384-ed88b13771ac)
+## Vedio
+
+
+
+https://github.com/IPH-Technologies-Pvt-Ltd/3D_website_design_django/assets/130441026/fbbe2f1f-8dfc-4448-b72f-a9e5104ceee1
+
+
+
 
 
