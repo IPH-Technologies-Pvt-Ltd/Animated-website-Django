@@ -1,6 +1,8 @@
-
-
 # 3D Django Website Design
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 This project aims to create a visually stunning 3D web design using HTML, CSS, JavaScript, and Django as the backend framework. The website incorporates various interactive elements and features, including 3D operations triggered by scrolling, video integration using the `<video>` tag, and a footer section with clickable social media icons like Facebook, Twitter, etc.
 
